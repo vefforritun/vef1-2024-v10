@@ -1,5 +1,7 @@
 # Vefforritun 1, 2024: Verkefni 10, JS #4
 
+- [Fyrirlestur 12.1: Verkefni 10 (45:27)](https://www.youtube.com/watch?v=CTOuUr-YX7c)
+
 ## Markmið
 
 - Útbúa eigið verkefni með HTML, CSS og JavaScript.
